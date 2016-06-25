@@ -1,8 +1,8 @@
 /**
  * This document is a part of the source code and related artifacts for
  * SMSystem.
- * www.apeironsol.com
- * Copyright © 2012 apeironsol
+ * www.brilapps.com
+ * Copyright © 2016 brilapps
  *
  */
 package com.brilapps.core.utility;
